@@ -4,5 +4,5 @@ class Person:
     name="Mardon"
     def __init__(self,n):
         self.name=n
-# x=Person("Mardon")
-# print(x.name)
+x=Person("Mardon")
+print(x.name)
